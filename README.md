@@ -16,8 +16,7 @@ Assuming you have &#39;cmake&#39; and &#39;make&#39; already:
 1. Clone this repo.
 2. Make a build directory: mkdir build &amp;&amp; cd build
 3. Compile: cmake .. &amp;&amp; make
-4. Run it: ./ExtendedKF path/to/input.txt path/to/output.txt. You can find some sample inputs in &#39;data/&#39;.
-  -  ./ExtendedKF ../data/sample-laser-radar-measurement-data-1.txt output.txt
+4. Run it: ./ExtendedKF
 
 **Results:**
 ![](https://github.com/swapnilmore2503/CarND-Extended-Kalman-Filter-Project/blob/master/Results.JPG "Extended Kalman Filter Result")
